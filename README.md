@@ -13,9 +13,9 @@
 ```
 name        →  João Costa
 location    →  Castelo Branco, Portugal 🇵🇹
-education   →  TeSP Web Development & Multimedia @ IPCB
+education   →  Bachelor's Degree Web Development & Multimedia @ IPCB
 experience  →  IT Intern @ Aptiv
-status      →  2nd year · 600h internship incoming
+status      →  2nd year · Bachelor's Degree
 philosophy  →  ship it first, refactor later
 currently   →  [ BUILDING ] — always.
 ```
