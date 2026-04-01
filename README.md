@@ -40,8 +40,10 @@ currently   →  [ BUILDING ] — always.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [Portfolio](https://Costaa777.github.io/portfolio) | Personal portfolio website | HTML, CSS |
-| [FelixBus](https://github.com/Costaa777) | Full-stack bus company — school project | PHP, JS, XAMPP |
+| [FelixBus](https://github.com/Costaa777/felixbus) | Full-stack bus company — school project | PHP, JS, XAMPP |
 | [Markdown Notes App](https://github.com/Costaa777) | Notes app with Firebase `[ IN PROGRESS ]` | JS, Firebase |
+
+
 
 ---
 
